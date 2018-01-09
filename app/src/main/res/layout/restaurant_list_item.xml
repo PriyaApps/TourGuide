@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/title_text"
+        style="@style/Title_Style"
+        android:paddingBottom="10dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/Label_Style"
+            android:paddingRight="8dp"
+            android:text="@string/label_location" />
+
+        <TextView
+            android:id="@+id/location_text"
+            style="@style/Values_Style" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/Label_Style"
+            android:paddingRight="8dp"
+            android:text="@string/label_timing" />
+
+        <TextView
+            android:id="@+id/timing_text"
+            style="@style/Values_Style" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/Label_Style"
+            android:paddingRight="8dp"
+            android:text="@string/label_special" />
+
+        <TextView
+            android:id="@+id/famous_text"
+            style="@style/Values_Style" />
+    </LinearLayout>
+
+
+</LinearLayout>

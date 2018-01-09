@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Madurai - A Visit</string>
+    <string name="button_start">Start the Tour >> </string>
+    <string name="about_title">ABOUT MADURAI</string>
+    <string name="about_desc">\t\t\t\t\tMadurai is an energetic, ancient city on the Vaigai River in the South Indian state of Tamil Nadu. Its skyline is dominated by the 14 colorful gopurams (Gateway Towers) of the Meenakshi Amman Temple. Covered in bright carvings of Hindu gods, the Dravidian style temple is a major pilgrimage site. Sound and Light Shows dramatize the history of the Thirumalai Nayak Mahal, a colonnaded 1636 palace with Dravidian and Islamic architectural features. The Gandhi Memorial Museum, in a domed 17 th century palace, documents the Indian struggle for independence. Beyond the old city lies the Vandiyur Mariamman Teppakulam, a vast temple tank filled by the Vaigai River.</string>
+    <string-array name="drawer_options">
+        <item>About Madurai</item>
+        <item>Top Sights</item>
+        <item>Madurai Special</item>
+        <item>Places to Eat</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Following are the resources for the TopSight Locations-->
+    <string name="top1_title">MEENAKSHI AMMAN TEMPLE :</string>
+    <string name="top1_desc">Meenakshi Temple is a historic Hindu temple located on the southern bank of the Vaigai River in the temple city of Madurai. It is an ancient, walled, Hindu place of worship with sacred water tank and colourful, sculpted gate towers.</string>
+    <string name="top1_location">LOCATION:\t\tNorth Chitrai Street | J K Plaza, 10/20, Bye-Pass Road, Madurai 625001.\n\nHOURS OPEN:\t\t5:00 AM - 12:30 PM, 4:00 PM - 10:00 PM</string>
+    <string name="top2_title">THIRUMALAI NAYAK PALACE :</string>
+    <string name="top2_desc">Thirumalai Nayak Palace is a 17th-century palace erected in 1636 AD by King Thirumalai Nayak. The building, which can be seen today, was the main Palace, in which the king lived. The original Palace Complex was four times bigger than the present structure. In its heyday, Tirumalai Nayak Palace was considered to be one of the wonders of the South.</string>
+    <string name="top2_location">LOCATION:\t\tPanthadi, 1st Street Mahal Area, Madurai 625001.\n\nHOURS OPEN:\t\tDay time opening hours: 9 AM to 5 PM</string>
+    <string name="top3_title">ALAGAR KOVIL :</string>
+    <string name="top3_desc">Kallazhagar temple covers an area of about 2 acres (0.81 hectares) and has a five-tiered gopuram (gateway tower). Constructed in the Dravidian style of architecture, the temple is glorified in the Divya Prabandha. It is one of the 108 Divyadesam dedicated to Vishnu, who is worshipped as Kallazhagar and his consort Lakshmi as Thirumamagal.</string>
+    <string name="top3_location">LOCATION:\t\tAlagar Kovil, Melur Taluk,Madurai District - 625301.\n\nHOURS OPEN:\t\t6:00 AM - 12:30 PM, 3:30 PM - 8:00 PM</string>
+    <string name="top4_title">PALAMUDHIR CHOLAI :</string>
+    <string name="top4_desc">Pazhamudhircholai is a pleasant wooded hill, situated 19 kilometers from the temple town of Madurai. The place is full of natural beauty and sylvan surroundings. It is mentioned as the sixth of Lord Murugan\'s Āru Patai Vīdukal, the six holiest Murugan shrines.Atop the hill Lord Muruga stands majestically in the temple as the Lord of the Hills.</string>
+    <string name="top4_location">LOCATION:\t\tAlagar Hills R.F Madurai 624401.\n\nHOURS OPEN:\t\t6:00 AM - 6:00 PM</string>
+    <string name="top5_title">1000 KAAL MANDABAM :</string>
+    <string name="top5_desc">Since 1966, the thousand pillars hall is also doubling as the museum of the temple. Among those items of artistic elegance and cultural excellence are:\n>>Antique panchaloka (five metal) idols.\n>>Collection of rare photographs, antique items and coins.\n>>Articles of Saiva and Vaishnava religions.\n>>Carvings in tusks and antique items.\n>>Paintings from the Nayakka period depicting the 64 miracles performed by Lord Sokkanathar.</string>
+    <string name="top5_location">LOCATION:\t\tInside Meenakshi Amman Temple, Madurai.\n\nHOURS OPEN:\t\t5:00 AM - 12:30 PM, 4:00 PM - 10:00 PM</string>
+    <string name="top6_title">GANDHI MEMORIAL MUSEUM :</string>
+    <string name="top6_desc">Gandhi Memorial Museum  was inaugurated by Jawaharlal Nehru on 15 April 1959.Among the exhibits at the Museum is part of the blood-stained garment worn by Gandhiji when he was assassinated by Nathuram Godse. Other exhibits in the Museum include an original letter written personally by Gandhi to Shri Narayanan Sathsangi of Devakottai. A congratulatory message sent by Gandhi to freedom fighter and poet Subramania Bharati is also preserved in this Museum. Yet another interesting letter is the one, written by the Mahatma to Adolf Hitler addressing him as ‘Dear Friend’.
+The Museum contains a ‘Visual Biography of Bapuji’ containing photos, paintings, sculptures, manuscripts, quotations and some of the selected Photostat copies of many of the letters written by him.</string>
+    <string name="top6_location">LOCATION:\t\tTamukkam Park Road, Gandhi Nagar, Madurai 625020\n\nHOURS OPEN:\t\tMonday - Thursday and Weekends 10:00 am - 01:00 pm, 02:45 pm - 05:30 pm</string>
+    <string name="top7_title">ATHISAYAM :</string>
+    <string name="top7_desc">Athisayam is an amusement theme park located on a 70 acres site and features about 40 games and 20 water rides. The park is popular for its water rides, recreating the experience of Courtalam waterfalls.</string>
+    <string name="top7_location">LOCATION:\t\t8 kms away from Madurai city in Madurai to Dindigul Highway, Madurai.\n\nHOURS OPEN:\t\t10:00 AM - 6:00 PM</string>
+    <string name="top8_title">THIRUPARANKUNDRAM :</string>
+    <string name="top8_desc">Thirupparankundram Murugan Temple is a Hindu temple and one of the Six Abodes of Murugan, located at Thirupparankundram. The temple is built in rock-cut architecture and believed to have been built by the Pandyas during the 6th century.</string>
+    <string name="top8_location">LOCATION:\t\tThirupparankundram, Madurai.\n\nHOURS OPEN:\t\t6:00 AM - 9:00 PM</string>
+    <string name="top9_title">KAZIMAR BIG MOSQUE :</string>
+    <string name="top9_desc">Kazimar Big Mosque is the first muslim place of worship in Madurai. The mosque can accommodate about 2,500 people. Within Kazimar Periyal Pallivasal is the dargah (holy grave) of the Madurai Hazrats. There is a Madrassa (school for Islamic teaching) within the mosque known as Hazrat Kazi Syed Tajuddinarabi Madrasah where students are taught basic Arabic.</string>
+    <string name="top9_location">LOCATION:\t\tNear Periyar Bus Stand | 1 Km From Madurai Railway Junction, Madurai.\n\nHOURS OPEN:\t\t5:00 AM - 9:00 PM</string>
+    <string name="top10_title">ST. MARY\'S CATHEDRAL :</string>
+    <string name="top10_desc">It is one of the oldest Roman Catholic churches in India. Saint Mary\'s was first constructed in 1840 although the present structure was built in 1916. Its architecture, featuring two tall bell towers, blends various European and Continental styles. It is known for its architectural splendor with its magnificent spires rising to the skies. To make the church more spacious, construction of a new church in Gothic style was planned. It is well worth a look as it is close by to the palace and Painted in white and looks a very good inside with calm atmosphere.</string>
+    <string name="top10_location">LOCATION:\t\tEast Veli Street | 2 Km From Madurai Railway Station, Madurai.\n\nHOURS OPEN:\t\t7.00 AM - 7.00 PM</string>
+
+    <!-- Following are the resources for the Restaurants -->
+    <string name="category_veg">VEG</string>
+    <string name="category_nonveg">NON - VEG</string>
+    <string name="label_location">Location :</string>
+    <string name="label_timing">Open Hours :</string>
+    <string name="label_special">Famous for :</string>
+    <string name="veg_murugan">Murugan Idly Kadai</string>
+    <string name="murugan_location">West Masi Street, Madurai</string>
+    <string name="murugan_timings">7AM - 11PM</string>
+    <string name="murugan_special">Idly, Podi dosa and Oothappam, Varieties of chutneys</string>
+    <string name="veg_saravana">Sri Saravana Bhavan</string>
+    <string name="saravana_location">No 257, East Veli Street, Madurai - 625001, Near Cmh Complex></string>
+    <string name="saravana_timings">7AM - 11PM</string>
+    <string name="saravana_special">Veg Meals</string>
+    <string name="veg_sabarees">Sree Sabarees</string>
+    <string name="sabarees_location">Address: 56A, West Perumal Maistry Street, Town Hall Road | Opp. College House, Madurai 625001</string>
+    <string name="sabarees_timings">6:00 AM - 11:30 PM</string>
+    <string name="sabarees_special">Veg tiffin and Tea</string>
+    <string name="veg_modern">The Modern Restaurants</string>
+    <string name="modern_location">160 Nethaji Road, Madurai 625001</string>
+    <string name="modern_timings">7AM - 11PM</string>
+    <string name="modern_special">Veg Meals</string>
+    <string name="veg_bhojan">Sree Mohan Bhojanalaya</string>
+    <string name="bhojan_location">33 Dhanappa Mudali Street West Tower Street, Opp Hotel Temple View, Madurai 625001</string>
+    <string name="bhojan_timings">8AM – 3:30PM, 6PM – 10:30PM</string>
+    <string name="bhojan_special">Delicious North Indian Food</string>
+    <string name="veg_annapoorna">Annapoorna Mithai</string>
+    <string name="annapoorna_location">12/2, Ram Nagar, Bypass Road, Near Aparna Tower, Madurai - 625010.</string>
+    <string name="annapoorna_timings">7AM – 10:30PM</string>
+    <string name="annapoorna_special">North Indian dishes and sweets</string>
+    <string name="veg_temple">Temple City</string>
+    <string name="temple_location">Opposite Mattuthavani Bus Stand, Madurai-Melur Main Road, Madurai - 625007.</string>
+    <string name="temple_timings">6AM - 12AM</string>
+    <string name="temple_special">Dosa and Filter Coffee</string>
+    <string name="veg_shriram">Shriram Mess</string>
+    <string name="shriram_location">No 19, Kakkathoppu Street, Madurai - 625001. (Near College House)</string>
+    <string name="shriram_timings">12PM - 3:30PM></string>
+    <string name="shriram_special">Veg Meals</string>
+    <string name="nv_konar">Konar Mess/ Konar Kadai</string>
+    <string name="konar_location">North Veli Street, Simmakkal, Madurai - 625001.</string>
+    <string name="konar_timings">11AM - 3PM, 7PM - 11PM</string>
+    <string name="konar_special">Kari Dosa (Mutton Dosa)</string>
+    <string name="nv_chandran">Chandran Mess</string>
+    <string name="chandran_location">Alagar Koil Main Road, Thallakulam, Madurai 625002.</string>
+    <string name="chandran_timings">11:30 AM - 4:30 PM</string>
+    <string name="chandran_special">Kola Urundai (Fried mutton meat balls)</string>
+    <string name="nv_amma">Amma Mess</string>
+    <string name="amma_location">136, Alagar Kovil Road, Madurai - 625002.</string>
+    <string name="amma_timings">12PM - 5PM, 7PM - 11PM</string>
+    <string name="amma_special">Sea food and Mutton Varieties.</string>
+    <string name="nv_kumar">Kumar Mess</string>
+    <string name="kumar_location">No 57, Azhagar Kovil Street, Thallakulam, Madurai.</string>
+    <string name="kumar_timings">4:00 AM - 11:00 PM</string>
+    <string name="kumar_special">Mutton chukka</string>
+    <string name="nv_amsavalli">Amsavalli Bhavan</string>
+    <string name="amsavalli_location">42, Madurai Main Road, East Veli Street, Near Muthoot Finance, Madurai - 625001.</string>
+    <string name="amsavalli_timings">8AM - 10PM</string>
+    <string name="amsavalli_special">Briyani</string>
+    <string name="nv_janakiram">Hotel Janakiram</string>
+    <string name="janakiram_location">42, Tamil Sangam Road, Poondhotam, Madurai - 625001.</string>
+    <string name="janakiram_timings">12:30PM - 10:30PM</string>
+    <string name="janakiram_special">Chicken Dishes</string>
+    <string name="nv_anbagam">Anbagam Restaurant</string>
+    <string name="anbagam_location">36, East Velli Street, Nell Pattai, Madurai - 625001.</string>
+    <string name="anbagam_timings">4AM - 3PM, 7PM - 11PM</string>
+    <string name="anbagam_special">Fish gravy</string>
+    <string name="nv_ameer">Ameer Mahal</string>
+    <string name="ameer_location">No.22, Pallivasal St, Goripalayam, Madurai - 625002.</string>
+    <string name="ameer_timings">11AM - 12:30AM</string>
+    <string name="ameer_special">Parotta</string>
+
+    <!-- Following are the resources for the Special things -->
+    <string name="special_one">Chithirai Festival</string>
+    <string name="chithirai_desc">\t\t\tIt is celebrated every year on the Full moon day of the Tamil Month Chithirai. (April/May). Legend says that Lord Vishnu, as Alagar, rode on a golden horse to Madurai to attend the celestial wedding of Goddes Meenakshi with Lord Sundareswarar (Lord Siva). This festival is marked by solemnity and serenity.</string>
+    <string name="special_two">Jallikattu (Taming the Bull)</string>
+    <string name="jallikattu_desc">\t\t\tThe most popular sport in Tamil Nadu is part of the pongal celebrations. This gave of valour is held in the villages with great pomp and splendor though only as a popular sport. People from the neighbouring villages throng the open grounds to watch man and beast pitting their strength against each other.</string>
+    <string name="special_three">Festival of the Cradle</string>
+    <string name="cradle_desc">\t\t\tDuring the festival the deities - Goddess Meenakshi and Lord Sundareswarar (Lord Siva) are taken in procession to a mirror chamber. For nine days they are on a swing, which rocks gently</string>
+    <string name="special_four">Car Festival</string>
+    <string name="car_desc">\t\t\tThe processional deities of Lord Sundareswarar and his consort Goddess Piriyavidai were mounted on the decorated Big Thaer (temple car), while Goddess Meenakshi was taken in the Small Thaer, Amid chanting of vedic hymns by the temple priests.</string>
+    <string name="special_five">Float Festival</string>
+    <string name="float_desc">\t\t\tA popular 12-day event held on the full moon of the Tamil month of Thai, when Meenakshi Amman Temple deities are paraded around town in elaborate procession and floated in a brightly lit \'minitemple\' on the huge Mariamman Teppakkulam Tank, 3km east of the old city.</string>
+    <string name="special_six">Light and Sound Show</string>
+    <string name="show_desc">\t\t\tThe light and sound show at Thirumalai Nayak Palace is one of the most attractive features of this palace. A chapter of Madurai\’s history comes alive every evening at the Tirumalai Nayak Palace. The show is held in English and Tamil language. Timings for English show is from 6.45 PM to 7.35 PM. The show in tamil is held from 8 PM to 8.50 PM.</string>
+    <string name="special_seven">Puthu Mandapam</string>
+    <string name="shop_desc">\t\t\tThis 16th-century pillared hall stands outside the Meenakshi Amman Temple, opposite the eastern gopuram. A handsome pale-blue Nandi (Shiva\'s vehicle) sits outside the eastern entrance. It houses a vibrant and diverse market where visitors can be seen spending hours together, indulge in shopping, finding souvenirs and traditional articles, which makes this place an intricate part of every Madurai Tour.\n\t\t\tThis bazaar in the captivating building of mandapam is one of the oldest markets of Tamil Nadu. It is said that this market has been functioning since 1920. It has various kinds of shops including tailoring, clothes, book, bangles, sandalwood and many more, promising an engaging experience to everyone. Along with popular shops selling usual shopping items, one can also find traditional and rare souvenirs to take home from this market.</string>
+    <string name="special_eight">Jasmine</string>
+    <string name="jasmine_desc">\t\t\tMadurai is famed for its jasmine plantations, called \"Madurai Malli\". Madurai has emerged as the main market for the Jasmine and has grown into the Jasmine Capital of India. Malli is not just a flower but an intrinsic part of the city\’s ethos.</string>
+    <string name="special_nine">Jigarthanda</string>
+    <string name="drink_desc">\t\t\tJil Jil Jigardanda is what it is called. A dessert unique to Madurai that\'s reputed to cool you down. The basic ingredients include milk, almond gum, sarsaparilla root syrup, sugar and ice-cream. Do not miss this popular drink in Madurai.</string>
+
+    <!-- Following are the resources that serve as the content description for the images -->
+    <string name="img_home">Trip to Madurai</string>
+    <string name="about_mdu">About Madurai</string>
+    <string name="speciality_image">Speciality</string>
+    <string name="topsight_image">Top Sight</string>
+</resources>
